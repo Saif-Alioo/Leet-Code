@@ -16,7 +16,7 @@ Explanation: [4,-1,2,1] has the largest sum = 6.
 
 https://leetcode.com/problems/maximum-subarray/
 <hr>
-<h3>Create maximum Subarry</h3>
+<h3>8:Create maximum Subarry</h3>
 GFG problem::
 Given an array arr of N integers. Find the contiguous sub-array with maximum sum.
 
