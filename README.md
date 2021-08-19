@@ -16,6 +16,16 @@ Explanation: [4,-1,2,1] has the largest sum = 6.
 
 https://leetcode.com/problems/maximum-subarray/
 <hr>
+<h3>2::</h3>
+Leet-Code problem::150. Evaluate Reverse Polish Notation
+Evaluate the value of an arithmetic expression in Reverse Polish Notation.
+
+Valid operators are +, -, *, and /. Each operand may be an integer or another expression.
+
+Note that division between two integers should truncate toward zero.
+
+It is guaranteed that the given RPN expression is always valid. That means the expression would always evaluate to a result, and there will not be any division by zero operation.
+https://leetcode.com/problems/evaluate-reverse-polish-notation/
 <h3>8:Create maximum Subarry</h3>
 GFG problem::
 Given an array arr of N integers. Find the contiguous sub-array with maximum sum.
